@@ -11,6 +11,8 @@
 
 ### Board Roll Number9135584
 
+### Note: The project has been created in and compatible with Borland Turbo C++ only!!!
+
 <p>
 
 ## Brief::
